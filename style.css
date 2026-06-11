@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+
+#left-column{
+    width: 60%;
+    float: left;
+    background-color: burlywood;
+}
+
+#right-column img{
+    width: 340px;
+    margin-left: 240px;
+    margin-top: 170px;
+}
+
+img#logo{
+    position: fixed;
+    width: 150px;
+    bottom: 20px;
+    right: 100px;
+}
